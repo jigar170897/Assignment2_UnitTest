@@ -12,3 +12,18 @@ C:\Users\JIGAR RANA\source\repos\eCommerceApp_Product\eCommerceApp_Product\obj\D
 C:\Users\JIGAR RANA\source\repos\eCommerceApp_Product\eCommerceApp_Product\obj\Debug\net8.0\eCommerceApp_Product.pdb
 C:\Users\JIGAR RANA\source\repos\eCommerceApp_Product\eCommerceApp_Product\obj\Debug\net8.0\eCommerceApp_Product.genruntimeconfig.cache
 C:\Users\JIGAR RANA\source\repos\eCommerceApp_Product\eCommerceApp_Product\obj\Debug\net8.0\ref\eCommerceApp_Product.dll
+C:\Conestoga projects or prgrams\Sem-2\Software Quality\eCommerceApp_Product\eCommerceApp_Product\bin\Debug\net8.0\eCommerceApp_Product.exe
+C:\Conestoga projects or prgrams\Sem-2\Software Quality\eCommerceApp_Product\eCommerceApp_Product\bin\Debug\net8.0\eCommerceApp_Product.deps.json
+C:\Conestoga projects or prgrams\Sem-2\Software Quality\eCommerceApp_Product\eCommerceApp_Product\bin\Debug\net8.0\eCommerceApp_Product.runtimeconfig.json
+C:\Conestoga projects or prgrams\Sem-2\Software Quality\eCommerceApp_Product\eCommerceApp_Product\bin\Debug\net8.0\eCommerceApp_Product.dll
+C:\Conestoga projects or prgrams\Sem-2\Software Quality\eCommerceApp_Product\eCommerceApp_Product\bin\Debug\net8.0\eCommerceApp_Product.pdb
+C:\Conestoga projects or prgrams\Sem-2\Software Quality\eCommerceApp_Product\eCommerceApp_Product\obj\Debug\net8.0\eCommerceApp_Product.GeneratedMSBuildEditorConfig.editorconfig
+C:\Conestoga projects or prgrams\Sem-2\Software Quality\eCommerceApp_Product\eCommerceApp_Product\obj\Debug\net8.0\eCommerceApp_Product.AssemblyInfoInputs.cache
+C:\Conestoga projects or prgrams\Sem-2\Software Quality\eCommerceApp_Product\eCommerceApp_Product\obj\Debug\net8.0\eCommerceApp_Product.AssemblyInfo.cs
+C:\Conestoga projects or prgrams\Sem-2\Software Quality\eCommerceApp_Product\eCommerceApp_Product\obj\Debug\net8.0\eCommerceApp_Product.csproj.CoreCompileInputs.cache
+C:\Conestoga projects or prgrams\Sem-2\Software Quality\eCommerceApp_Product\eCommerceApp_Product\obj\Debug\net8.0\eCommerceApp_Product.sourcelink.json
+C:\Conestoga projects or prgrams\Sem-2\Software Quality\eCommerceApp_Product\eCommerceApp_Product\obj\Debug\net8.0\eCommerceApp_Product.dll
+C:\Conestoga projects or prgrams\Sem-2\Software Quality\eCommerceApp_Product\eCommerceApp_Product\obj\Debug\net8.0\refint\eCommerceApp_Product.dll
+C:\Conestoga projects or prgrams\Sem-2\Software Quality\eCommerceApp_Product\eCommerceApp_Product\obj\Debug\net8.0\eCommerceApp_Product.pdb
+C:\Conestoga projects or prgrams\Sem-2\Software Quality\eCommerceApp_Product\eCommerceApp_Product\obj\Debug\net8.0\eCommerceApp_Product.genruntimeconfig.cache
+C:\Conestoga projects or prgrams\Sem-2\Software Quality\eCommerceApp_Product\eCommerceApp_Product\obj\Debug\net8.0\ref\eCommerceApp_Product.dll
