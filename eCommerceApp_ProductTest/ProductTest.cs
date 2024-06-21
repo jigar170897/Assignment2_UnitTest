@@ -15,28 +15,28 @@ namespace eCommerceApp_ProductTest
             [SetUp]
             public void Setup()
             {
-                _product = new Product(101, "Spring water", 3, 1000);
+                _product = new Product(101, "Product1", 3, 1000);
             }
 
             // product ID validate
             [Test]
             public void Test_ProductID_MinVal()
             {
-                var product = new Product(1, "Spring water", 2.5m, 1000);
+                var product = new Product(1, "Product2", 2.5m, 1000);
                 Assert.That(product.ProductID, Is.EqualTo(1));
             }
 
             [Test]
             public void Test_ProductID_MaxVal()
             {
-                var product = new Product(10000, "Spring water", 2.5m, 1000);
+                var product = new Product(10000, "Product3", 2.5m, 1000);
                 Assert.That(product.ProductID, Is.EqualTo(10000));
             }
 
             [Test]
             public void Test_ProductID_OutOfRange()
             {
-                var product = new Product(1005, "Spring water", 2.5m, 1000);
+                var product = new Product(1005, "Product4", 2.5m, 1000);
                 Assert.That(product.Stock, Is.EqualTo(1000));
             }
 
@@ -44,7 +44,7 @@ namespace eCommerceApp_ProductTest
             [Test]
             public void IncreaseStock_IncreaseByNegative_ThrowsException()
             {
-                var product = new Product(1, "Test Product Name", 11, 5);
+                var product = new Product(1, "Product5", 11, 5);
                 Assert.Throws<ArgumentException>(() => product.IncreaseStock(-1));
             }
 
@@ -60,21 +60,21 @@ namespace eCommerceApp_ProductTest
             [Test]
             public void Test_Price_MinVal()
             {
-                var product = new Product(3, "Spring water", 1.00m, 1000);
+                var product = new Product(3, "Product7", 1.00m, 1000);
                 Assert.That(product.Price, Is.EqualTo(1.00m));
             }
 
             [Test]
             public void Test_Price_MaxVal()
             {
-                var product = new Product(1, "Spring water", 5000.00m, 1000);
+                var product = new Product(1, "Product8", 5000.00m, 1000);
                 Assert.That(product.Price, Is.EqualTo(5000.00m));
             }
 
             [Test]
             public void Test_Price_OutOfRange()
             {
-                var product = new Product(1, "Spring water", 5000.00m, 6000);
+                var product = new Product(1, "Product9", 5000.00m, 6000);
                 Assert.That(product.Stock, Is.EqualTo(6000));
             }
 
@@ -82,21 +82,21 @@ namespace eCommerceApp_ProductTest
             [Test]
             public void Test_Stock_MinVal()
             {
-                var product = new Product(1, "Spring water", 2.5m, 1);
+                var product = new Product(1, "Product10", 2.5m, 1);
                 Assert.That(product.Stock, Is.EqualTo(1));
             }
 
             [Test]
             public void Test_Stock_MaxVal()
             {
-                var product = new Product(1, "Spring water", 2.5m, 100000);
+                var product = new Product(1, "Product11", 2.5m, 100000);
                 Assert.That(product.Stock, Is.EqualTo(100000));
             }
 
             [Test]
             public void Test_Stock_OutOfRange()
             {
-                var product = new Product(1, "Spring water", 2.5m, 100001);
+                var product = new Product(1, "Product12", 2.5m, 100001);
                 Assert.That(product.Stock, Is.EqualTo(100001));
 
             }
@@ -107,7 +107,7 @@ namespace eCommerceApp_ProductTest
             [Test]
             public void Test_DecreaseStock_Valid()
             {
-                var product = new Product(1, "Spring water", 2.5m, 5);
+                var product = new Product(1, "Product13", 2.5m, 5);
                 product.DecreaseStock(1);
                 Assert.That(product.Stock, Is.EqualTo(4));
             }
@@ -116,7 +116,7 @@ namespace eCommerceApp_ProductTest
             [Test]
             public void Test_DecreaseStock_ValidMinValue()
             {
-                var product = new Product(1, "Test Product Name", 11, 1);
+                var product = new Product(1, "Product14", 11, 1);
                 Assert.That(product.Stock, Is.EqualTo(1));
             }
 
@@ -124,7 +124,7 @@ namespace eCommerceApp_ProductTest
             [Test]
             public void Test_DecreaseStock_OverStock()
             {
-                var product = new Product(1, "Spring water", 200000, 5);
+                var product = new Product(1, "Product15", 200000, 5);
                 product.IncreaseStock(10);
                 Assert.That(product.Stock, Is.EqualTo(15));
             }
@@ -133,7 +133,7 @@ namespace eCommerceApp_ProductTest
             [Test]
             public void Test_IncreaseStock_Valid()
             {
-                var product = new Product(1, "Spring water", 2.5m, 5);
+                var product = new Product(1, "Product16", 2.5m, 5);
                 product.IncreaseStock(5);
                 Assert.That(product.Stock, Is.EqualTo(10));
             }
@@ -141,7 +141,7 @@ namespace eCommerceApp_ProductTest
             [Test]
             public void IncreaseStock_IncreaseByZero()
             {
-                var product = new Product(1, "Test Product Name", 11, 5);
+                var product = new Product(1, "Product17", 11, 5);
                 product.IncreaseStock(0);
                 Assert.That(product.Stock, Is.EqualTo(5));
             }
@@ -150,7 +150,7 @@ namespace eCommerceApp_ProductTest
             [Test]
             public void Test_IncreaseStock_ZeroNum()
             {
-                var product = new Product(1, "Spring water", 2.5m, 5);
+                var product = new Product(1, "Product18", 2.5m, 5);
                 product.IncreaseStock(0);
                 Assert.That(product.Stock, Is.EqualTo(5));
             }

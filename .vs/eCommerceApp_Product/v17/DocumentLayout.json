@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JIGAR RANA\\Downloads\\eCommerceApp_Product\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4ECCD2E7-7394-4A62-9593-85516195BEB5}|eCommerceApp_ProductTest\\eCommerceApp_ProductTest.csproj|c:\\users\\jigar rana\\downloads\\ecommerceapp_product\\ecommerceapp_producttest\\producttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ECCD2E7-7394-4A62-9593-85516195BEB5}|eCommerceApp_ProductTest\\eCommerceApp_ProductTest.csproj|solutionrelative:ecommerceapp_producttest\\producttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B214FE8-4BA5-40B6-85EB-609233CFE272}|eCommerceApp_Product\\eCommerceApp_Product.csproj|c:\\users\\jigar rana\\downloads\\ecommerceapp_product\\ecommerceapp_product\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B214FE8-4BA5-40B6-85EB-609233CFE272}|eCommerceApp_Product\\eCommerceApp_Product.csproj|solutionrelative:ecommerceapp_product\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B214FE8-4BA5-40B6-85EB-609233CFE272}|eCommerceApp_Product\\eCommerceApp_Product.csproj|c:\\users\\jigar rana\\downloads\\ecommerceapp_product\\ecommerceapp_product\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B214FE8-4BA5-40B6-85EB-609233CFE272}|eCommerceApp_Product\\eCommerceApp_Product.csproj|solutionrelative:ecommerceapp_product\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ECCD2E7-7394-4A62-9593-85516195BEB5}|eCommerceApp_ProductTest\\eCommerceApp_ProductTest.csproj|c:\\users\\jigar rana\\downloads\\ecommerceapp_product\\ecommerceapp_producttest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ECCD2E7-7394-4A62-9593-85516195BEB5}|eCommerceApp_ProductTest\\eCommerceApp_ProductTest.csproj|solutionrelative:ecommerceapp_producttest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductTest.cs",
+              "DocumentMoniker": "C:\\Users\\JIGAR RANA\\Downloads\\eCommerceApp_Product\\eCommerceApp_ProductTest\\ProductTest.cs",
+              "RelativeDocumentMoniker": "eCommerceApp_ProductTest\\ProductTest.cs",
+              "ToolTip": "C:\\Users\\JIGAR RANA\\Downloads\\eCommerceApp_Product\\eCommerceApp_ProductTest\\ProductTest.cs",
+              "RelativeToolTip": "eCommerceApp_ProductTest\\ProductTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T03:21:33.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\JIGAR RANA\\Downloads\\eCommerceApp_Product\\eCommerceApp_ProductTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "eCommerceApp_ProductTest\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\JIGAR RANA\\Downloads\\eCommerceApp_Product\\eCommerceApp_ProductTest\\UnitTest1.cs",
+              "RelativeToolTip": "eCommerceApp_ProductTest\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T03:20:41.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\JIGAR RANA\\Downloads\\eCommerceApp_Product\\eCommerceApp_Product\\Product.cs",
+              "RelativeDocumentMoniker": "eCommerceApp_Product\\Product.cs",
+              "ToolTip": "C:\\Users\\JIGAR RANA\\Downloads\\eCommerceApp_Product\\eCommerceApp_Product\\Product.cs",
+              "RelativeToolTip": "eCommerceApp_Product\\Product.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwEUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T03:15:13.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JIGAR RANA\\Downloads\\eCommerceApp_Product\\eCommerceApp_Product\\Program.cs",
+              "RelativeDocumentMoniker": "eCommerceApp_Product\\Program.cs",
+              "ToolTip": "C:\\Users\\JIGAR RANA\\Downloads\\eCommerceApp_Product\\eCommerceApp_Product\\Program.cs",
+              "RelativeToolTip": "eCommerceApp_Product\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T23:12:45.477Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
